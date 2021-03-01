@@ -1,0 +1,6 @@
+Save Format v3.0(19990112)
+@begin Targets
+ 0 "pb_ide_refresh_bug.pbt";
+@end;
+DefaultTarget "pb_ide_refresh_bug.pbt";
+DefaultRemoteTarget "pb_ide_refresh_bug.pbt";
